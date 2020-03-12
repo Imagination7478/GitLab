@@ -12,6 +12,7 @@ namespace GitLab
         {
         }
         public void finish() { }
+		public void nichego(){}
 
     }
 }
