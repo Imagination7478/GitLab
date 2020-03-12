@@ -12,6 +12,8 @@ namespace GitLab
         {
 			Console.WriteLine("HOTFIX");
         }
+        public void finish() { }
+		public void nichego(){}
 
     }
 }
