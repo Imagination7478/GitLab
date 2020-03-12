@@ -11,6 +11,7 @@ namespace GitLab
         public void start()
         {
         }
+        public void finish() { }
 
     }
 }
